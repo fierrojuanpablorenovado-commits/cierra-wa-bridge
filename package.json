@@ -1,0 +1,20 @@
+{
+  "name": "cierra-wa-bridge",
+  "version": "0.1.0",
+  "description": "WhatsApp Multi-Device bridge for Cierra CRM tenants (Baileys + Fastify)",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.16",
+    "fastify": "^5.0.0",
+    "pino": "^9.5.0",
+    "qrcode": "^1.5.4"
+  }
+}
