@@ -9,7 +9,7 @@ desde **Ajustes → WhatsApp Bridge**.
 
 ## Deploy rápido en Railway
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/cierra-crm/cierra-wa-bridge)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/fierrojuanpablorenovado-commits/cierra-wa-bridge)
 
 1. **Generate Domain** en Railway (Settings → Networking).
 2. Configura variables:
